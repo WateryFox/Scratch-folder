@@ -1,0 +1,1 @@
+This repository contains all of my Scratch project I ever made when I was in middle school. While not that important nor significant, this is when I first entered the world of programming. Feel free to check them out.
